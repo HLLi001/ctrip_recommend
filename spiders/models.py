@@ -30,7 +30,7 @@ class SightInfo:
             'city': self.city,
             'tags': self.tags
         }
-
+#lhl
 @dataclass
 class Review:
     """用户评论数据模型"""

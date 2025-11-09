@@ -306,7 +306,7 @@ class CtripSpider(BaseSpider):
             '.commentScore',          # 评论评分
             '.comment_score'          # 评论分数
         ]
-        
+         #李瀚霖 U202314372
         for selector in rating_selectors:
             elem = soup.select_one(selector)
             if elem:
@@ -509,6 +509,7 @@ class CtripSpider(BaseSpider):
             '[class*="review"]'
         ]
         
+        #14372
         for selector in review_selectors:
             elem = soup.select_one(selector)
             if elem:
@@ -570,7 +571,7 @@ class CtripSpider(BaseSpider):
                     if review:
                         reviews.append(review)
                 break
-        
+        #HLLi001
         return reviews
     
     def parse_single_review(self, elem):
@@ -597,6 +598,7 @@ class CtripSpider(BaseSpider):
         
         return None
     
+     #lhl 
     def parse_review_username(self, elem):
         """解析评论用户名"""
         username_selectors = [
@@ -651,7 +653,7 @@ class CtripSpider(BaseSpider):
                     return content[:500]  # 限制长度
         
         return ''
-    
+    #lhl
     def parse_review_time(self, elem):
         """解析评论时间"""
         time_selectors = [
@@ -748,3 +750,4 @@ class CtripSpider(BaseSpider):
         print(f"  评分: {self.parse_rating(soup)}")
         print(f"  地址: {self.parse_address(soup)}")
         print(f"  评论数: {self.parse_review_count(soup)}")
+        #lhl

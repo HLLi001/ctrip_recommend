@@ -40,7 +40,7 @@ class BaseSpider:
             'Cache-Control': 'max-age=0',
             'Referer': 'https://you.ctrip.com/'
         }
-    
+    #lhl
     def random_delay(self, min_delay=1, max_delay=5):
         """随机延时"""
         delay = random.uniform(min_delay, max_delay)
@@ -79,6 +79,6 @@ class BaseSpider:
                 wait_time = 2 ** i  # 指数退避
                 self.logger.info(f"等待 {wait_time} 秒后重试...")
                 time.sleep(wait_time)
-                    
+                #lhl    
         self.logger.error(f"重试{retry_count}次后仍然失败: {url}")
         return None

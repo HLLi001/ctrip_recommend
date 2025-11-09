@@ -108,7 +108,7 @@ def main():
             if config.CRAWL_REVIEWS:
                 logger.info("开始爬取评论数据...")
                 all_reviews = []
-                for sight in cleaned_data[:config.MAX_REVIEWS_PER_SIGHT]:  # 限制数量，避免请求过多
+                for sight in cleaned_data[:config.MAX_REVIEWS_PER_SIGHT]:  # 限制数量，避免请求过多，lhl
                     reviews = spider.get_sight_reviews(sight['url'], max_reviews=10)
                     for review in reviews:
                         review['sight_name'] = sight['name']
@@ -159,7 +159,7 @@ def show_data_stats(sights_data):
     # 数据完整性统计
     name_complete = sum(1 for s in sights_data if s.get('name') and s.get('name') != '未知')
     rating_complete = sum(1 for s in sights_data if s.get('rating', 0) > 0)
-    address_complete = sum(1 for s in sights_data if s.get('address') and s.get('address') != '未知')
+    address_complete = sum(1 for s in sights_data if s.get('address') and s.get('address') != '未知')#14372
     intro_complete = sum(1 for s in sights_data if s.get('introduction'))
     
     logger.info("📊 详细数据统计:")
@@ -173,6 +173,7 @@ def show_data_stats(sights_data):
     logger.info(f"   地址完整率: {address_complete}/{total_sights} ({address_complete/total_sights*100:.1f}%)")
     logger.info(f"   介绍完整率: {intro_complete}/{total_sights} ({intro_complete/total_sights*100:.1f}%)")
     
+    #lhl
     # 评分分布
     rating_ranges = {'5星': 0, '4星': 0, '3星': 0, '2星': 0, '1星': 0}
     for rating in ratings:

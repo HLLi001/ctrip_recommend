@@ -1,0 +1,15 @@
+# 🚫 忽略敏感文件
+.env
+*.env
+
+# 忽略日志文件
+logs/
+*.log
+
+# 忽略Python缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 忽略数据文件（可选）
+data/

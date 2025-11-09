@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "朝阳公园",
+    "rating": 4.7,
+    "address": "北京市朝阳区朝阳公园南路1号",
+    "introduction": "",
+    "review_count": 1144,
+    "url": "https://you.ctrip.com/sight/beijing1/107621.html?scene=online",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "广州 · 伍佰 & China Blue 2025《Rock Star 2 》世界巡回演唱会",
+    "rating": 4.7,
+    "address": "开创大道2666号",
+    "introduction": "",
+    "review_count": 1,
+    "url": "https://you.ctrip.com/sight/guangzhou152/153111569.html?scene=online",
+    "city": "广州",
+    "tags": []
+  },
+  {
+    "name": "豫园",
+    "rating": 4.7,
+    "address": "上海市黄浦区福佑路168号",
+    "introduction": "",
+    "review_count": 51271,
+    "url": "https://you.ctrip.com/sight/shanghai2/740.html?scene=online",
+    "city": "上海",
+    "tags": []
+  },
+  {
+    "name": "深圳大学城",
+    "rating": 4.7,
+    "address": "深圳市南山区丽水路2239号",
+    "introduction": "",
+    "review_count": 130,
+    "url": "https://you.ctrip.com/sight/26/1508755.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "长隆野生动物世界",
+    "rating": 4.8,
+    "address": "广东省广州市番禺区汉溪大道东299号",
+    "introduction": "",
+    "review_count": 91600,
+    "url": "https://you.ctrip.com/sight/guangzhou152/6802.html?scene=online",
+    "city": "广州",
+    "tags": []
+  },
+  {
+    "name": "广州雕塑公园",
+    "rating": 4.5,
+    "address": "广东省广州市白云区下塘西路545号",
+    "introduction": "",
+    "review_count": 263,
+    "url": "https://you.ctrip.com/sight/152/51268.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "摩星岭",
+    "rating": 4.6,
+    "address": "广州市白云区广园中路801号白云山风景名胜区内",
+    "introduction": "",
+    "review_count": 153,
+    "url": "https://you.ctrip.com/sight/152/1481154.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "深圳 · 陈慧琳Season 2万人结界演唱会",
+    "rating": 4.5,
+    "address": "深圳市滨海大道3001号（南山区科苑南路与海德三道交汇处）",
+    "introduction": "",
+    "review_count": 4,
+    "url": "https://you.ctrip.com/sight/shenzhen26/153241625.html?scene=online",
+    "city": "深圳",
+    "tags": []
+  },
+  {
+    "name": "深圳湾公园",
+    "rating": 4.6,
+    "address": "深圳市福田区滨海大道",
+    "introduction": "",
+    "review_count": 520,
+    "url": "https://you.ctrip.com/sight/shenzhen26/1508177.html?scene=online",
+    "city": "深圳",
+    "tags": []
+  },
+  {
+    "name": "卢浦大桥",
+    "rating": 4.7,
+    "address": "2024-11-05IP属地：上海举报点赞",
+    "introduction": "",
+    "review_count": 316,
+    "url": "https://you.ctrip.com/sight/2/57031.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "深圳平安金融中心云际观光层",
+    "rating": 4.9,
+    "address": "深圳市福田区益田路5033号平安金融中心116层",
+    "introduction": "",
+    "review_count": 20357,
+    "url": "https://you.ctrip.com/sight/shenzhen26/4336342.html?scene=online",
+    "city": "深圳",
+    "tags": []
+  },
+  {
+    "name": "番禺广场",
+    "rating": 4.6,
+    "address": "广东省广州市番禺区清河东路338号",
+    "introduction": "",
+    "review_count": 229,
+    "url": "https://you.ctrip.com/sight/152/1484663.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "广州长隆国际大马戏",
+    "rating": 4.7,
+    "address": "汉溪大道东299号",
+    "introduction": "",
+    "review_count": 21582,
+    "url": "https://you.ctrip.com/sight/guangzhou152/137991.html?scene=online",
+    "city": "广州",
+    "tags": []
+  },
+  {
+    "name": "深圳 · 刘若英 2025《飞行日》巡回演唱会",
+    "rating": 4.5,
+    "address": "深圳市龙岗区龙翔大道深圳大运中心",
+    "introduction": "",
+    "review_count": 4,
+    "url": "https://you.ctrip.com/sight/shenzhen26/152935228.html?scene=online",
+    "city": "深圳",
+    "tags": []
+  },
+  {
+    "name": "广州 · 大张伟大好时光2025“续一个NICE”演唱会广州站",
+    "rating": 4.7,
+    "address": "广东省广州市黄埔区大塱村开创大道2666号",
+    "introduction": "",
+    "review_count": 1,
+    "url": "https://you.ctrip.com/sight/guangzhou152/153198235.html?scene=online",
+    "city": "广州",
+    "tags": []
+  },
+  {
+    "name": "深圳 · 福田会展中心脱口秀【魔脱喜剧】| 每周一至周日｜爆笑解压欢乐精品脱口秀大会",
+    "rating": 4.0,
+    "address": "广东省深圳市福田区福华一路1号深圳大中华国际交易广场北座G层GF-091",
+    "introduction": "",
+    "review_count": 1,
+    "url": "https://you.ctrip.com/sight/shenzhen26/149589060.html?scene=online",
+    "city": "深圳",
+    "tags": []
+  },
+  {
+    "name": "广州 · GO WITH THE FLOW林峯演唱会-广州站",
+    "rating": 4.8,
+    "address": "广东省广州市黄埔区大塱村开创大道2666号",
+    "introduction": "",
+    "review_count": 5,
+    "url": "https://you.ctrip.com/sight/guangzhou152/152938776.html?scene=online",
+    "city": "广州",
+    "tags": []
+  },
+  {
+    "name": "古北水镇",
+    "rating": 4.7,
+    "address": "北京市密云区古北口镇司马台村",
+    "introduction": "",
+    "review_count": 14861,
+    "url": "https://you.ctrip.com/sight/beijing1/1411592.html?scene=online",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "广州博物馆",
+    "rating": 4.7,
+    "address": "广州市越秀区镇海路99号越秀公园内",
+    "introduction": "",
+    "review_count": 946,
+    "url": "https://you.ctrip.com/sight/guangzhou152/6823.html?scene=online",
+    "city": "广州",
+    "tags": []
+  },
+  {
+    "name": "深圳 · 陈粒 2025《一粒》十周年巡回演唱会",
+    "rating": 4.5,
+    "address": "深圳市滨海大道3001号（南山区科苑南路与海德三道交汇处）",
+    "introduction": "",
+    "review_count": 4,
+    "url": "https://you.ctrip.com/sight/shenzhen26/153143385.html?scene=online",
+    "city": "深圳",
+    "tags": []
+  },
+  {
+    "name": "广州长隆度假区",
+    "rating": 4.7,
+    "address": "广东省广州市番禺区汉溪大道东299号",
+    "introduction": "",
+    "review_count": 12772,
+    "url": "https://you.ctrip.com/sight/guangzhou152/135794.html?scene=online",
+    "city": "广州",
+    "tags": []
+  },
+  {
+    "name": "珠江公园",
+    "rating": 4.6,
+    "address": "广州市天河区金穗路900号",
+    "introduction": "",
+    "review_count": 369,
+    "url": "https://you.ctrip.com/sight/152/122076.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "龙华公园",
+    "rating": 4.3,
+    "address": "深圳市龙华区公园路与景龙中环路交叉路口往西北约50米(龙华荔园新村西北侧约100米)",
+    "introduction": "",
+    "review_count": 311,
+    "url": "https://you.ctrip.com/sight/26/122328.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "北京市规划展览馆",
+    "rating": 4.8,
+    "address": "北京市东城区东大街20号",
+    "introduction": "",
+    "review_count": 166,
+    "url": "https://you.ctrip.com/sight/1/62724.html",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "SOLANA蓝色港湾",
+    "rating": 4.8,
+    "address": "北京市朝阳区朝阳公园路6号",
+    "introduction": "",
+    "review_count": 432,
+    "url": "https://you.ctrip.com/sight/1/5055372.html",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "正佳极地海洋世界",
+    "rating": 4.5,
+    "address": "广州市天河区天河路228号正佳广场2楼",
+    "introduction": "",
+    "review_count": 6708,
+    "url": "https://you.ctrip.com/sight/guangzhou152/1815375.html?scene=online",
+    "city": "广州",
+    "tags": []
+  },
+  {
+    "name": "长陵",
+    "rating": 4.6,
+    "address": "北京市昌平区十三陵特区怀长路与昌赤路交叉口北",
+    "introduction": "",
+    "review_count": 437,
+    "url": "https://you.ctrip.com/sight/1/137981.html",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "北京动物园",
+    "rating": 4.5,
+    "address": "北京市西城区西直门外大街137号",
+    "introduction": "",
+    "review_count": 9714,
+    "url": "https://you.ctrip.com/sight/beijing1/5173.html?scene=online",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "华山路",
+    "rating": 4.7,
+    "address": "上海华山路831号的孙家花园，是一座典型而精致的西班牙式花园住宅，传颂着中国近现代民族资本主义发展的一个家族故事。",
+    "introduction": "",
+    "review_count": 247,
+    "url": "https://you.ctrip.com/sight/2/132541.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "广东省博物馆",
+    "rating": 4.6,
+    "address": "广州市天河区珠江东路2号",
+    "introduction": "",
+    "review_count": 1877,
+    "url": "https://you.ctrip.com/sight/guangzhou152/6782.html?scene=online",
+    "city": "广州",
+    "tags": []
+  },
+  {
+    "name": "白云山",
+    "rating": 4.7,
+    "address": "广东省广州市白云区同和街道广园中路801号",
+    "introduction": "",
+    "review_count": 5568,
+    "url": "https://you.ctrip.com/sight/guangzhou152/6766.html?scene=online",
+    "city": "广州",
+    "tags": []
+  },
+  {
+    "name": "颐和园",
+    "rating": 4.7,
+    "address": "北京市海淀区新建宫门路19号",
+    "introduction": "",
+    "review_count": 48956,
+    "url": "https://you.ctrip.com/sight/beijing1/231.html?scene=online",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "石围塘站(货运站)",
+    "rating": 4.4,
+    "address": "广东省广州市荔湾区石围塘公寓二巷18号",
+    "introduction": "",
+    "review_count": 78,
+    "url": "https://you.ctrip.com/sight/152/1481548.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "雍和宫",
+    "rating": 4.7,
+    "address": "北京市东城区雍和宫大街28号",
+    "introduction": "",
+    "review_count": 3173,
+    "url": "https://you.ctrip.com/sight/beijing1/5153.html?scene=online",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "中山纪念碑",
+    "rating": 4.8,
+    "address": "广州市越秀区解放北路988号越秀公园内",
+    "introduction": "",
+    "review_count": 131,
+    "url": "https://you.ctrip.com/sight/152/110545.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "小梅沙海滨乐园",
+    "rating": 4.7,
+    "address": "广东省深圳市盐田区盐葵路小梅沙段39号",
+    "introduction": "",
+    "review_count": 1867,
+    "url": "https://you.ctrip.com/sight/shenzhen26/2780.html?scene=online",
+    "city": "深圳",
+    "tags": []
+  },
+  {
+    "name": "金茂大厦88层观光厅",
+    "rating": 4.7,
+    "address": "上海市浦东新区世纪大道88号金茂大厦88层",
+    "introduction": "",
+    "review_count": 3637,
+    "url": "https://you.ctrip.com/sight/shanghai2/1816019.html?scene=online",
+    "city": "上海",
+    "tags": []
+  },
+  {
+    "name": "广州中山纪念堂",
+    "rating": 4.8,
+    "address": "广东省广州市越秀区东风中路299号",
+    "introduction": "",
+    "review_count": 2327,
+    "url": "https://you.ctrip.com/sight/guangzhou152/6824.html?scene=online",
+    "city": "广州",
+    "tags": []
+  },
+  {
+    "name": "上海之巅观光厅",
+    "rating": 4.6,
+    "address": "上海市浦东新区银城中路501号上海中心大厦118层",
+    "introduction": "",
+    "review_count": 14012,
+    "url": "https://you.ctrip.com/sight/shanghai2/2005734.html?scene=online",
+    "city": "上海",
+    "tags": []
+  },
+  {
+    "name": "上海动物园",
+    "rating": 4.7,
+    "address": "上海市长宁区虹桥路2381号",
+    "introduction": "",
+    "review_count": 22049,
+    "url": "https://you.ctrip.com/sight/shanghai2/25506.html?scene=online",
+    "city": "上海",
+    "tags": []
+  },
+  {
+    "name": "北海公园",
+    "rating": 4.7,
+    "address": "北京市西城区文津街1号",
+    "introduction": "",
+    "review_count": 5085,
+    "url": "https://you.ctrip.com/sight/beijing1/232.html?scene=online",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "浦东美术馆",
+    "rating": 4.7,
+    "address": "上海市浦东新区滨江大道2777号",
+    "introduction": "",
+    "review_count": 2084,
+    "url": "https://you.ctrip.com/sight/shanghai2/124908212.html?scene=online",
+    "city": "上海",
+    "tags": []
+  },
+  {
+    "name": "陈家祠",
+    "rating": 4.6,
+    "address": "广州市荔湾区中山七路恩龙里34号",
+    "introduction": "",
+    "review_count": 3394,
+    "url": "https://you.ctrip.com/sight/guangzhou152/6772.html?scene=online",
+    "city": "广州",
+    "tags": []
+  },
+  {
+    "name": "海珠广场",
+    "rating": 4.4,
+    "address": "广东省广州市越秀区人民街道果菜西社区一德路237号",
+    "introduction": "",
+    "review_count": 269,
+    "url": "https://you.ctrip.com/sight/152/1481417.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "地王观光·深港之窗",
+    "rating": 4.3,
+    "address": "广东省深圳市罗湖区深南东路5002号信兴广场F1",
+    "introduction": "",
+    "review_count": 1833,
+    "url": "https://you.ctrip.com/sight/shenzhen26/11546.html?scene=online",
+    "city": "深圳",
+    "tags": []
+  },
+  {
+    "name": "深圳 · 2026张韶涵「觅光」世界巡回演唱会",
+    "rating": 4.5,
+    "address": "深圳市龙岗区龙翔大道深圳大运中心",
+    "introduction": "",
+    "review_count": 4,
+    "url": "https://you.ctrip.com/sight/shenzhen26/153198201.html?scene=online",
+    "city": "深圳",
+    "tags": []
+  },
+  {
+    "name": "荔湾博物馆",
+    "rating": 4.5,
+    "address": "广州市荔湾区逢源北街84号",
+    "introduction": "",
+    "review_count": 125,
+    "url": "https://you.ctrip.com/sight/152/1407597.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "深圳 · 潘玮柏“狂爱2.0”巡回演唱会-深圳站",
+    "rating": 4.5,
+    "address": "广东省深圳市龙岗区黄阁路",
+    "introduction": "",
+    "review_count": 4,
+    "url": "https://you.ctrip.com/sight/shenzhen26/153198217.html?scene=online",
+    "city": "深圳",
+    "tags": []
+  },
+  {
+    "name": "万春亭",
+    "rating": 4.9,
+    "address": "北京市景山西街44号景山公园内",
+    "introduction": "",
+    "review_count": 71,
+    "url": "https://you.ctrip.com/sight/1/1816240.html",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "崇明学宫",
+    "rating": 4.7,
+    "address": "上海市崇明区鳌山路696号",
+    "introduction": "",
+    "review_count": 123,
+    "url": "https://you.ctrip.com/sight/2/5686.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "思月书院",
+    "rating": 4.5,
+    "address": "广东省深圳市罗湖区人民路二横街79号",
+    "introduction": "",
+    "review_count": 120,
+    "url": "https://you.ctrip.com/sight/26/50560.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "簋街",
+    "rating": 4.6,
+    "address": "北京市东城区境内，东起东直门立交桥，西至交道口东大街，全长1472米。簋街周围有许多大使馆，这也使得国外的游客和国外在京工作人员能够方便的品尝到正宗的华夏美食。",
+    "introduction": "",
+    "review_count": 565,
+    "url": "https://you.ctrip.com/sight/1/139643.html",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "和平公园",
+    "rating": 4.6,
+    "address": "上海市虹口区天宝路891号",
+    "introduction": "",
+    "review_count": 717,
+    "url": "https://you.ctrip.com/sight/2/51683.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "南京路步行街",
+    "rating": 4.7,
+    "address": "上海市黄浦区南京东路",
+    "introduction": "",
+    "review_count": 44505,
+    "url": "https://you.ctrip.com/sight/shanghai2/3739.html?scene=online",
+    "city": "上海",
+    "tags": []
+  },
+  {
+    "name": "欢乐港湾",
+    "rating": 4.5,
+    "address": "广东省深圳市宝安区海府路与新安西路交叉口西南200米",
+    "introduction": "",
+    "review_count": 689,
+    "url": "https://you.ctrip.com/sight/shenzhen26/5711027.html?scene=online",
+    "city": "深圳",
+    "tags": []
+  },
+  {
+    "name": "珠江夜游天字码头",
+    "rating": 4.5,
+    "address": "广东省广州市越秀区沿江中路200号",
+    "introduction": "",
+    "review_count": 4025,
+    "url": "https://you.ctrip.com/sight/152/121689.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "鹤湖新居",
+    "rating": 4.1,
+    "address": "广东省深圳市龙岗区龙岗街道南联社区新瑞路21号",
+    "introduction": "",
+    "review_count": 111,
+    "url": "https://you.ctrip.com/sight/26/50557.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "招商蛇口邮轮母港游览",
+    "rating": 4.6,
+    "address": "广东省深圳市南山区海运路1号蛇口邮轮中心",
+    "introduction": "",
+    "review_count": 420,
+    "url": "https://you.ctrip.com/sight/shenzhen26/103857634.html?scene=online",
+    "city": "深圳",
+    "tags": []
+  },
+  {
+    "name": "北京citywalk",
+    "rating": 4.8,
+    "address": "未知",
+    "introduction": "",
+    "review_count": 319,
+    "url": "https://you.ctrip.com/sight/beijing1/0.html?poiId=151074796",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "大佛古寺",
+    "rating": 4.7,
+    "address": "广州市越秀区惠新中街21号",
+    "introduction": "",
+    "review_count": 558,
+    "url": "https://you.ctrip.com/sight/guangzhou152/1481692.html?scene=online",
+    "city": "广州",
+    "tags": []
+  },
+  {
+    "name": "深圳欢乐谷",
+    "rating": 4.8,
+    "address": "广东省深圳市南山区沙河街道星河街社区侨城西街18号",
+    "introduction": "",
+    "review_count": 33016,
+    "url": "https://you.ctrip.com/sight/shenzhen26/13720.html?scene=online",
+    "city": "深圳",
+    "tags": []
+  },
+  {
+    "name": "四海公园",
+    "rating": 4.6,
+    "address": "深圳市南山区公园路3号",
+    "introduction": "",
+    "review_count": 257,
+    "url": "https://you.ctrip.com/sight/26/136187.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "古崖居风景区",
+    "rating": 4.6,
+    "address": "北京市延庆区古龙路与古崖居路交叉口西北345米",
+    "introduction": "",
+    "review_count": 564,
+    "url": "https://you.ctrip.com/sight/1/62758.html",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "大亚湾核电站",
+    "rating": 4.9,
+    "address": "深圳市龙岗区大鹏镇大坑村麻角山大亚湾畔",
+    "introduction": "",
+    "review_count": 187,
+    "url": "https://you.ctrip.com/sight/26/50527.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "东湖公园",
+    "rating": 4.6,
+    "address": "广东省深圳市罗湖区黄贝街道爱国路4006号",
+    "introduction": "",
+    "review_count": 280,
+    "url": "https://you.ctrip.com/sight/26/50550.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "观音山公园",
+    "rating": 4.5,
+    "address": "广东省深圳市龙岗区大鹏街道王母社区金沙大道与坪西路交汇处",
+    "introduction": "",
+    "review_count": 27,
+    "url": "https://you.ctrip.com/sight/26/1481551.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "广州起义烈士陵园",
+    "rating": 4.8,
+    "address": "广东省广州市越秀区大塘街道中山三路92号",
+    "introduction": "",
+    "review_count": 9,
+    "url": "https://you.ctrip.com/sight/152/6786.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "长隆水上乐园",
+    "rating": 4.6,
+    "address": "广东省广州市番禺区汉溪路169号广州长隆水上乐园；库位：以景区实际情况为准；",
+    "introduction": "",
+    "review_count": 18362,
+    "url": "https://you.ctrip.com/sight/guangzhou152/48597.html?scene=online",
+    "city": "广州",
+    "tags": []
+  },
+  {
+    "name": "桔钓沙",
+    "rating": 4.4,
+    "address": "深圳市龙岗区新东路28号",
+    "introduction": "",
+    "review_count": 93,
+    "url": "https://you.ctrip.com/sight/26/50526.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "明十三陵",
+    "rating": 4.6,
+    "address": "北京市昌平区十三陵镇昌赤路",
+    "introduction": "",
+    "review_count": 6357,
+    "url": "https://you.ctrip.com/sight/beijing1/234.html?scene=online",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "广州露营",
+    "rating": 5.0,
+    "address": "亚热带，气候温和，全年大部分时间都适宜露营。周边拥有众多水库、森林公园和湿地公园，露营地多依傍山林、湖泊。这些地方风景如画，植被类型多样，既有郁郁葱葱的森林，也",
+    "introduction": "",
+    "review_count": 16,
+    "url": "https://you.ctrip.com/sight/guangzhou152/0.html?poiId=149998050",
+    "city": "广州",
+    "tags": []
+  },
+  {
+    "name": "北京野生动物园",
+    "rating": 4.7,
+    "address": "北京市大兴区榆垡镇万亩森林",
+    "introduction": "",
+    "review_count": 31356,
+    "url": "https://you.ctrip.com/sight/beijing1/107469.html?scene=online",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "洪湖公园",
+    "rating": 4.6,
+    "address": "广东省深圳市罗湖区笋岗街道洪湖社区文锦北路2023号",
+    "introduction": "",
+    "review_count": 350,
+    "url": "https://you.ctrip.com/sight/26/50554.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "广州塔",
+    "rating": 4.5,
+    "address": "广东省广州市海珠区阅江西路222号",
+    "introduction": "",
+    "review_count": 43442,
+    "url": "https://you.ctrip.com/sight/guangzhou152/107540.html?scene=online",
+    "city": "广州",
+    "tags": []
+  },
+  {
+    "name": "定陵",
+    "rating": 4.5,
+    "address": "北京市昌平区十三陵镇昌赤路十三陵内",
+    "introduction": "",
+    "review_count": 1124,
+    "url": "https://you.ctrip.com/sight/1/137984.html",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "广东科学中心",
+    "rating": 4.6,
+    "address": "广州市番禺区科普路168号",
+    "introduction": "",
+    "review_count": 10907,
+    "url": "https://you.ctrip.com/sight/guangzhou152/64724.html?scene=online",
+    "city": "广州",
+    "tags": []
+  },
+  {
+    "name": "方家胡同",
+    "rating": 4.8,
+    "address": "北京市东城区",
+    "introduction": "",
+    "review_count": 88,
+    "url": "https://you.ctrip.com/sight/1/107669.html",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "历代帝王庙",
+    "rating": 4.8,
+    "address": "北京市西城区阜成门内大街131号",
+    "introduction": "",
+    "review_count": 182,
+    "url": "https://you.ctrip.com/sight/1/66172.html",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "北京赏红叶",
+    "rating": 4.8,
+    "address": "未知",
+    "introduction": "",
+    "review_count": 319,
+    "url": "https://you.ctrip.com/sight/beijing1/0.html?poiId=148849016",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "中国地质博物馆",
+    "rating": 4.8,
+    "address": "北京市西城区羊肉胡同15号",
+    "introduction": "",
+    "review_count": 5853,
+    "url": "https://you.ctrip.com/sight/beijing1/62726.html?scene=online",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "广州国际会展中心",
+    "rating": 4.6,
+    "address": "琶洲街道阅江中路380号",
+    "introduction": "",
+    "review_count": 192,
+    "url": "https://you.ctrip.com/sight/152/1481689.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "襄阳公园",
+    "rating": 4.6,
+    "address": "上海市徐汇区淮海中路1008号(近襄阳北路)",
+    "introduction": "",
+    "review_count": 392,
+    "url": "https://you.ctrip.com/sight/2/111300.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "天后博物馆",
+    "rating": 4.4,
+    "address": "广东省深圳市南山区招商街道赤湾六路9号",
+    "introduction": "",
+    "review_count": 63,
+    "url": "https://you.ctrip.com/sight/26/50536.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "龙美术馆",
+    "rating": 4.7,
+    "address": "罗山路2255弄210号（近花木路）",
+    "introduction": "",
+    "review_count": 124,
+    "url": "https://you.ctrip.com/sight/2/144534.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "天坛公园",
+    "rating": 4.7,
+    "address": "北京市东城区天坛东里甲1号",
+    "introduction": "",
+    "review_count": 19401,
+    "url": "https://you.ctrip.com/sight/beijing1/233.html?scene=online",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "中国科学院华南国家植物园",
+    "rating": 4.6,
+    "address": "广州市天河区天源路1190号",
+    "introduction": "",
+    "review_count": 4461,
+    "url": "https://you.ctrip.com/sight/guangzhou152/6794.html?scene=online",
+    "city": "广州",
+    "tags": []
+  },
+  {
+    "name": "海印大桥",
+    "rating": 4.7,
+    "address": "广东省广州市",
+    "introduction": "",
+    "review_count": 198,
+    "url": "https://you.ctrip.com/sight/152/1481423.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "华东政法大学(长宁校区)",
+    "rating": 4.7,
+    "address": "上海市长宁区万航渡路1575号",
+    "introduction": "",
+    "review_count": 498,
+    "url": "https://you.ctrip.com/sight/2/75641.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "笔架山公园",
+    "rating": 4.5,
+    "address": "深圳市福田区梅岗路26号",
+    "introduction": "",
+    "review_count": 199,
+    "url": "https://you.ctrip.com/sight/26/50552.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "大鹏半岛",
+    "rating": 4.5,
+    "address": "广东省深圳市大鹏新区南澳街道新大社区南澳地质公园路1号",
+    "introduction": "",
+    "review_count": 84,
+    "url": "https://you.ctrip.com/sight/shenzhen26/1474852.html?scene=online",
+    "city": "深圳",
+    "tags": []
+  },
+  {
+    "name": "龙城广场",
+    "rating": 4.6,
+    "address": "广东省深圳市龙岗区龙城街道尚景社区向前路120号",
+    "introduction": "",
+    "review_count": 162,
+    "url": "https://you.ctrip.com/sight/26/50579.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "大湾区一号(港珠澳大桥航线)",
+    "rating": 4.5,
+    "address": "广东省深圳市南山区海运路蛇口邮轮中心",
+    "introduction": "",
+    "review_count": 290,
+    "url": "https://you.ctrip.com/sight/shenzhen26/111985046.html?scene=online",
+    "city": "深圳",
+    "tags": []
+  },
+  {
+    "name": "上海博物馆",
+    "rating": 4.6,
+    "address": "上海市黄浦区人民大道201号",
+    "introduction": "",
+    "review_count": 9350,
+    "url": "https://you.ctrip.com/sight/shanghai2/3733.html?scene=online",
+    "city": "上海",
+    "tags": []
+  },
+  {
+    "name": "招商局历史博物馆",
+    "rating": 4.5,
+    "address": "深圳市南山区观海路蛇口工业区大厦西北侧约90米",
+    "introduction": "",
+    "review_count": 45,
+    "url": "https://you.ctrip.com/sight/26/1509042.html",
+    "city": "",
+    "tags": []
+  },
+  {
+    "name": "篱苑书屋",
+    "rating": 4.0,
+    "address": "北京市怀柔区雁栖镇交界河村智慧谷过桥东50米",
+    "introduction": "",
+    "review_count": 15,
+    "url": "https://you.ctrip.com/sight/1/1712487.html",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "国家自然博物馆",
+    "rating": 4.7,
+    "address": "北京市东城区天桥南大街126号",
+    "introduction": "",
+    "review_count": 1959,
+    "url": "https://you.ctrip.com/sight/beijing1/5181.html?scene=online",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "泡泡玛特城市乐园",
+    "rating": 4.5,
+    "address": "北京市朝阳区朝阳公园南路1号40幢",
+    "introduction": "",
+    "review_count": 1455,
+    "url": "https://you.ctrip.com/sight/beijing1/136653497.html?scene=online",
+    "city": "北京",
+    "tags": []
+  },
+  {
+    "name": "广州塔460米摩天轮",
+    "rating": 4.6,
+    "address": "广东省广州市海珠区阅江西路222号广州塔112层",
+    "introduction": "",
+    "review_count": 1877,
+    "url": "https://you.ctrip.com/sight/guangzhou152/1484195.html?scene=online",
+    "city": "广州",
+    "tags": []
+  },
+  {
+    "name": "东部华侨城",
+    "rating": 4.0,
+    "address": "广东省深圳市盐田区大梅沙",
+    "introduction": "",
+    "review_count": 17863,
+    "url": "https://you.ctrip.com/sight/shenzhen26/50102.html?scene=online",
+    "city": "深圳",
+    "tags": []
+  },
+  {
+    "name": "西沙明珠湖景区",
+    "rating": 4.7,
+    "address": "上海市崇明区三华公路333号",
+    "introduction": "",
+    "review_count": 1049,
+    "url": "https://you.ctrip.com/sight/2/109784.html",
+    "city": "",
+    "tags": []
+  }
+]
